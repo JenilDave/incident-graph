@@ -16,3 +16,6 @@ inputs/
 storage/
 faiss_index/
 graph_storage/
+
+# .env files
+.env
